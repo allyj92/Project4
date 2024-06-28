@@ -21,6 +21,8 @@ public class Quiz8 {
 			break;
 			
 		}
+		
+		// 이와같이 조건이 복잡한 경우에는 switch문보다는 if문이 편리하다.
 	}
 
 }
