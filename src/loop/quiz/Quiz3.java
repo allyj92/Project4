@@ -1,6 +1,6 @@
 package loop.quiz;
 
-public class Quzi3 {
+public class Quiz3 {
 
 	public static void main(String[] args) {
 		int n = 7;
